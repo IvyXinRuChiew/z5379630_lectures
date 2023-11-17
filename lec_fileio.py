@@ -182,4 +182,3 @@ with open(DSTFILE, mode='w') as fobj:
    fobj.write('This is a another line')
 
 print_lines_rstrip(DSTFILE)
-
